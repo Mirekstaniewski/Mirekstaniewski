@@ -1,0 +1,66 @@
+.header {
+  background-color: #cacec7;
+  display: flex;
+  align-self: auto;
+  height: 300px;
+  width: 400px;
+
+}
+
+.con {
+  display: flex;
+  flex-direction: column;
+  flex-grow: ;
+
+
+}
+
+.content {
+  background-color: lavender;
+  display: flex;
+  flex-grow: 8;
+  flex-direction: column;
+
+}
+
+.st1 {
+  display: flex;
+  background-color: gray;
+  flex-grow: 3;
+  margin: 3px;
+  align-content: ;
+
+}
+
+.st2 {
+  background-color: gray;
+  flex-grow: 4;
+  display: flex;
+
+  margin: 3px;
+}
+
+.fot {
+  background-color: darkgrey;
+  display: flex;
+  flex-grow: 0.2;
+  align-self: auto;
+
+}
+
+.main {
+
+  display: flex;
+  flex-direction: row;
+  min-height: 400px;
+  max-width: 800px;
+
+
+}
+
+.img {
+  width: 70px;
+  height: 70px;
+
+
+}
